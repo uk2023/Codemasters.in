@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Codemasters.in/static/css/main.ac7b4cf0.css",
-    "main.js": "/Codemasters.in/static/js/main.d2fad5dc.js",
+    "main.js": "/Codemasters.in/static/js/main.d61a8832.js",
     "static/js/787.e4349f12.chunk.js": "/Codemasters.in/static/js/787.e4349f12.chunk.js",
     "static/media/image2.gif": "/Codemasters.in/static/media/image2.531abab947ac689a87ff.gif",
     "static/media/contact-bg.jpg": "/Codemasters.in/static/media/contact-bg.a0c72406225e2b593c6e.jpg",
@@ -15,11 +15,11 @@
     "static/media/profile-pic.jpg": "/Codemasters.in/static/media/profile-pic.c18231ea2da9b7618aa3.jpg",
     "index.html": "/Codemasters.in/index.html",
     "main.ac7b4cf0.css.map": "/Codemasters.in/static/css/main.ac7b4cf0.css.map",
-    "main.d2fad5dc.js.map": "/Codemasters.in/static/js/main.d2fad5dc.js.map",
+    "main.d61a8832.js.map": "/Codemasters.in/static/js/main.d61a8832.js.map",
     "787.e4349f12.chunk.js.map": "/Codemasters.in/static/js/787.e4349f12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac7b4cf0.css",
-    "static/js/main.d2fad5dc.js"
+    "static/js/main.d61a8832.js"
   ]
 }
